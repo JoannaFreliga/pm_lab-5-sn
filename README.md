@@ -13,4 +13,4 @@ Numer albumu: 72526
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+Do silnika musi być dołączony tranzystor by uniknąć wystąpienia zwracia.
